@@ -18,6 +18,7 @@ Make sure that argos3-examples work ok (as explained in the video) before moving
 mkdir ~/boundry_follower
 cd boundry_follower
 git clone https://github.com/a-hamzah/boundry_following_bot.git
+cd boundry_following_bot
 argos3 -c test.argos
 ```
 
