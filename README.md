@@ -21,4 +21,7 @@ git clone https://github.com/a-hamzah/boundry_following_bot.git
 cd boundry_following_bot
 argos3 -c test.argos
 ```
+## Demo
+![boundry_following_bot](https://github.com/a-hamzah/boundry_following_bot/assets/25130682/339e6ee5-6edd-4073-a87d-968994f53d9d)
+
 
